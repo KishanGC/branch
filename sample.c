@@ -1,20 +1,38 @@
+#include<stdio.h>
+#include<stdlib.h>
 
-B
-B
-B
-B
-B
+int main(){
+printf("hello world);
+} 
 
-D
-D
-D
-D
-D
-D
-D
-D
-D
-D
-D
-D
-nclude<stdio.h>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
