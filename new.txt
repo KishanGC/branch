@@ -1,3 +1,6 @@
 this is devops lab
 working on git and git hub
-changes in barnch
+changes in barnc
+D
+C
+ hi this is h
